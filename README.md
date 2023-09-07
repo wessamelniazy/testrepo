@@ -1,2 +1,2 @@
 # testrepo
-Final Assignment Lab for web scrapping &amp; Graphing
+Final Assignment Lab for web scrapping and Graphing
